@@ -1,10 +1,20 @@
-# Nombre del Proyecto
+# Proyección convergente de oscilación vertical
 
-![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
+![Foto Representativa del Proyecto]
 
-Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
+En este repositorio se encuentran ls archivos y el registro del proyecto, con el fin de exponer dicho proyecto, 
+ 
+El proyecto se centra en la construcción de Tótems interactivos, los cuales recogen gestualidades en tres diferentes dimensiones (estas referidas a los planos de movimientos) 
 
-Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas. Para escribir en estos archivos debes utilizar [lenguaje markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+
+Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas.
+
+
+Autores: Camilo Salamanca, Esteban Rejas.
+
+
+-----
 
 En este `README.md` principal debes incorporar:
 - La descripción general del proyecto
@@ -14,3 +24,4 @@ En este `README.md` principal debes incorporar:
 - Declarar herramientas y tecnologías utilizadas
 
 El objetivo general de una documentación es **facilitar la colaboración y replicabilidad** de un proyecto, además de mantener una referencia actualizada y actualiuzable de sus materiales y métodos.
+
