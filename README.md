@@ -1,6 +1,6 @@
 # Proyección convergente de oscilación vertical
 
-![Foto Representativa del Proyecto]
+![Foto Representativa del Proyecto] Poner archivo Ai
 
 En este repositorio se encuentran los archivos y el registro del proyecto, con el fin de exponer dicho proyecto, 
  
