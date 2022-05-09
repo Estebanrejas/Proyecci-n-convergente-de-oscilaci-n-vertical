@@ -2,19 +2,23 @@
 
 ![Foto Representativa del Proyecto]
 
-En este repositorio se encuentran ls archivos y el registro del proyecto, con el fin de exponer dicho proyecto, 
+En este repositorio se encuentran los archivos y el registro del proyecto, con el fin de exponer dicho proyecto, 
  
-El proyecto se centra en la construcción de Tótems interactivos, los cuales recogen gestualidades en tres diferentes dimensiones (estas referidas a los planos de movimientos) 
+El proyecto se centra en la construcción de Tótems interactivos, los cuales recogen gestualidades en tres diferentes dimensiones (estas referidas a los planos de movimientos) estos gestos los cuales están inscritos en el tótem son abstracciones de un proceso de observación de situaciones cotidianas, y de lo que nos capta la atención en base a movimientos, situaciones las cuales logramos observar 
 
 
 
 Este es el archivo `README.md` principal del repositorio, pero cada carpeta tiene su propio archivo `README.md` que describe a los archivos o subcarpetas incluidas.
 
+Códigos de los arduinos:
+
+`[https://www.tinkercad.com/things/2gis06sN8TU](https://www.tinkercad.com/things/2gis06sN8TU "Códigos de Arduinos")
+
 
 Autores: Camilo Salamanca, Esteban Rejas.
 
 
------
+---
 
 En este `README.md` principal debes incorporar:
 - La descripción general del proyecto
