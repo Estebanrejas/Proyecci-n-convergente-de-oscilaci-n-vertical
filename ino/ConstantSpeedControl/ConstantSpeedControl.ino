@@ -1,6 +1,8 @@
 // ConstantSpeed.pde
 // -*- mode: C++ -*-
 //
+// Tutorial para controlar stepper desde 
+// https://www.makerguides.com/tb6560-stepper-motor-driver-arduino-tutorial/
 // Basado en el código de ejemplo de la librería AccelStepper
 /// \autor original:  Mike McCauley (mikem@airspayce.com)
 // Copyright (C) 2009 Mike McCauley
