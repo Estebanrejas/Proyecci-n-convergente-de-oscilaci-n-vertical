@@ -14,7 +14,7 @@ float valor;
 // Definicion del motor stepper en el modo que se utiliza
 // en este caso de 2 pines conectados al motor, los pines 2 y 4
 // más información en https://www.airspayce.com/mikem/arduino/AccelStepper/classAccelStepper.html#ae79c49ad69d5ccc9da0ee691fa4ca235
-AccelStepper stepper(AccelStepper::FULL2WIRE, 2, 4);// Defaults to AccelStepper::FULL4WIRE (4 pins) on 2, 3, 4, 5
+AccelStepper stepper(AccelStepper::FULL2WIRE, 2, 4);// Default para AccelStepper::FULL4WIRE (4 pins) on 2, 3, 4, 5
 
 void setup()
 {  
