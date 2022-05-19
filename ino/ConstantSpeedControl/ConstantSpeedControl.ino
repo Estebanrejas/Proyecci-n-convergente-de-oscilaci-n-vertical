@@ -18,14 +18,14 @@ AccelStepper stepper(AccelStepper::FULL2WIRE, 2, 4);// Defaults to AccelStepper:
 
 void setup()
 {  
-   stepper.setMaxSpeed(15000); // Velocidad programada para el motor
+   stepper.setMaxSpeed(10000); // Velocidad programada para el motor
 	
 }
 
 void loop()
 {  
    int analog_in = analogRead(analogic); // Lectura del potenciómetro
-   valor = map(analog_in, 0, 4095, 0, 15000); // Mapeo del slider a las velocidades del motor
+   valor = map(analog_in, 0, 4095, 10000, 0); // Mapeo del slider a las velocidades del motor
    stepper.setSpeed(valor); // Definir la velocidad segun el valor mapeado
    stepper.runSpeed(); // Ejecutar la velocidad leída.
 
